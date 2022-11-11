@@ -5,3 +5,5 @@ Mon objectif est de mettre en place une plateforme permettant de mettre en relat
 Le système va donc mettre le client en contact à l’adhérent en fonction de ses besoins. 
 Exemple, si le client a besoins de plombier, le système va lui trouver un plombier qui est disponible puis va les mettre en contact. 
 Pour plus d’explication contacter moi. Email : cylkoffi@gmail.com 
+
+NB: le projet n'est pas encore terminé 
